@@ -1,0 +1,17 @@
+C:\Users\anton\source\repos\personas\personas\bin\Debug\personas.exe.config
+C:\Users\anton\source\repos\personas\personas\bin\Debug\personas.exe
+C:\Users\anton\source\repos\personas\personas\bin\Debug\personas.pdb
+C:\Users\anton\source\repos\personas\personas\bin\Debug\EntityFramework.dll
+C:\Users\anton\source\repos\personas\personas\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\anton\source\repos\personas\personas\bin\Debug\EntityFramework.xml
+C:\Users\anton\source\repos\personas\personas\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\anton\source\repos\personas\personas\obj\Debug\personas.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\personas\personas\obj\Debug\personas.csproj.SuggestedBindingRedirects.cache
+C:\Users\anton\source\repos\personas\personas\obj\Debug\personas.Personas.resources
+C:\Users\anton\source\repos\personas\personas\obj\Debug\personas.Properties.Resources.resources
+C:\Users\anton\source\repos\personas\personas\obj\Debug\personas.csproj.GenerateResource.cache
+C:\Users\anton\source\repos\personas\personas\obj\Debug\personas.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\personas\personas\obj\Debug\personas.csproj.CopyComplete
+C:\Users\anton\source\repos\personas\personas\obj\Debug\personas.exe
+C:\Users\anton\source\repos\personas\personas\obj\Debug\personas.pdb
+C:\Users\anton\source\repos\personas\personas\obj\Debug\personas.uptpersona.resources
